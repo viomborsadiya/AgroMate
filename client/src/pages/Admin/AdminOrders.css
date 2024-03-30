@@ -1,0 +1,19 @@
+.order-container {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.order-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.order-container th,
+.order-container td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Add more styles as needed */

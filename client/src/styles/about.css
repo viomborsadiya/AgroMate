@@ -1,0 +1,19 @@
+/* AboutUs.css */
+
+.about-us-container {
+  padding: 20px;
+}
+
+.about-us-image {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.about-us-content {
+  padding: 20px;
+}
+
+.about-us-content h2 {
+  color: #2aba57;
+  /* Blue color for heading */
+}

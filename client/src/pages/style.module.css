@@ -1,0 +1,13 @@
+/* styles.module.css */
+.image {
+  width: 85%;
+}
+
+/* style.module.css */
+
+.greenDiv {
+  background-color: #bfccbc;
+}
+.justify-content-between {
+  justify-content: space-around;
+}

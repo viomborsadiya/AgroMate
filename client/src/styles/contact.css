@@ -1,0 +1,42 @@
+/* ContactUs.css */
+
+.contact-us-container {
+  padding: 20px;
+}
+
+.contact-us-image {
+  width: 90%;
+  margin-left: 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* Adding a subtle shadow effect */
+}
+
+.contact-details {
+  padding: 20px;
+}
+
+.contact-details p {
+  margin-bottom: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+textarea.form-control {
+  resize: vertical;
+  /* Allowing vertical resizing of the textarea */
+}
+
+.btn-primary {
+  background-color: #2aba57;
+  /* Blue color for the submit button */
+  border-color: #2aba57;
+}
+
+.btn-primary:hover {
+  background-color: #2aba57;
+  /* Darker shade of blue on hover */
+  border-color: #2aba57;
+}

@@ -1,0 +1,47 @@
+/* Orders.css */
+
+.order-container {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.order-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.order-container th,
+.order-container td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.product-container {
+  display: flex;
+  border: 1px solid #ddd;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.product-container .product-details {
+  display: flex;
+  align-items: center;
+}
+
+.product-container .product-details p {
+  margin: 0;
+}
+
+.product-container .product-details .product-image {
+  margin-right: 20px;
+}
+
+.product-container .product-details img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+/* Add more styles as needed */

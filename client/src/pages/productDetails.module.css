@@ -1,0 +1,37 @@
+/* productDetails.module.css */
+
+.addToCartBtn {
+  background-color: #4caf50; /* Green */
+  color: white;
+  margin-right: 10px; /* Add space between buttons */
+}
+
+.moreDetailsBtn {
+  background-color: #2196f3; /* Blue */
+  color: white;
+  margin-right: 10px; /* Add space between buttons */
+}
+
+.moreDetailsBtn:hover,
+.addToCartBtn:hover {
+  background-color: #5081b6; /* Change hover effect color */
+}
+
+.card {
+  background-color: #f8f9fa;
+  width: calc(33.333% - 20px); /* Adjust card width */
+  margin: 10px; /* Add margin between cards */
+  border-radius: 10px; /* Add border radius */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+.productImage {
+  height: 292px; /* Set image height */
+  width: 39%; /* Set image width */
+  object-fit: cover;
+  margin-left: 30vh; /* Ensure image covers the container */
+}
+
+.buttonContainer {
+  margin-top: 10px; /* Add space between buttons and other content */
+}
