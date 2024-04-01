@@ -6,16 +6,6 @@
       "src": "agriculture.png",
       "sizes": "192x192",
       "type": "image/png"
-    },
-    {
-      "src": "agriculture.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "agriculture.png",
-      "type": "image/png",
-      "sizes": "192x192"
     }
   ],
   "start_url": ".",
